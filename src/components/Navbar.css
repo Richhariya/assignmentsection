@@ -1,0 +1,11 @@
+.section{
+    display: flex;
+    justify-content:space-between ;
+    margin-right: 50px;
+}
+
+.text{
+   margin-left: 50px;
+   font-family: 'Arial Narrow Bold', sans-serif; 
+   
+}
